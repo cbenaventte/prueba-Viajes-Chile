@@ -1,0 +1,12 @@
+
+html {
+    scroll-behavior: smooth;
+  }
+
+.logo {
+    width: 2rem;
+}
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}   
+
